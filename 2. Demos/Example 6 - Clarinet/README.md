@@ -10,7 +10,7 @@ The results show that the same signal can be recreated using different **QDTS** 
 control on the timbre of the _carrier_ complex of pure tones.
 
 For the **QDTS** synthesis, the computations were made using the `qdts.solver` object using a _carrier_ complex 
-of pure tones with $C=2345$Hz. The computations were ran several times until three reasonably different solutions appeared. 
+of pure tones with C=2345Hz. The computations were ran several times until three reasonably different solutions appeared. 
 The harmonic distribution was precomputed using the Discrete Fourier Transform of a small bin of the real recording. 
 The pitch and envelope detection of the tuba recording were made in real-time using the `sigmund` object. Finally, 
 the square root of the envelope of the real signal was used in the **QDTS** synthesis as in Example 3.

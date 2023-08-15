@@ -7,7 +7,7 @@ recording with the resynthesis using **QDTS** synthesis versions, and finally th
 The results show that certain signals can be at a certain level be reconstructed using **QDTS** synthesis.
 
 For the **QDTS** synthesis, the computations were made using the `qdts.solver` object using a _carrier_ complex 
-of pure tones with $C=1979$Hz in order to resynthesize the recording of a tuba (see note below). The harmonic distribution 
+of pure tones with C=1979Hz in order to resynthesize the recording of a tuba (see note below). The harmonic distribution 
 was precomputed using the Discrete Fourier Transform of a small bin of the real recording. The pitch and envelope detection 
 of the tuba recording were made in real-time using the `sigmund` object. Finally, the square root of the envelope of the 
 real signal was used in the **QDTS** synthesis as in Example 3.

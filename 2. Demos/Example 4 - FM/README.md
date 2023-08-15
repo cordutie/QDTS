@@ -13,8 +13,8 @@ some amplitude changes can be heard in this case, showing the instability of the
 auditory distortion products with respect to the _carrier_ frequencies.
 
 For the **QDTS** synthesis, the computations were made using the `qdts.solver` 
-object using a _carrier_ complex of pure tones with $C=2500$Hz in order to 
-synthesize a single pitch with frequency $F=55$Hz and a particular harmonic distribution. 
+object using a _carrier_ complex of pure tones with C=2500Hz in order to 
+synthesize a single pitch with frequency F=55Hz and a particular harmonic distribution. 
 The FM _carrier_ used was a simple LFO of the form 
 
 $$L(t)=A\sin(\omega t+\varphi)+B,$$ 

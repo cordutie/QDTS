@@ -13,8 +13,8 @@ so in order to apply amplitude modulation, one has to use the square root
 of the usual AM _carrier_.
 
 For the **QDTS** synthesis, the computations were made using the `qdts.solver` 
-object using a _carrier_ complex of pure tones with $C=2338$Hz in order to 
-synthesize a single pitch with frequency $F=55$Hz and a particular harmonic distribution. 
+object using a _carrier_ complex of pure tones with C=2338Hz in order to 
+synthesize a single pitch with frequency F=55Hz and a particular harmonic distribution. 
 The AM _carrier_ used was a simple LFO of the form 
 
 $$L_1(t)=A\sin(\omega t+\varphi)+B,$$

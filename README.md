@@ -1,12 +1,27 @@
 # QDTS
 
-Quadratic Difference Tone Spectra (QDTS) is a particular kind of
-auditory distortion product where several sinusoids are combined
-to generate a full spectra of quadratic difference tones (QDT). 
+## Introduction
+
+Cuadratic and cubic difference tones (QDT and CDT respectively) are
+a particular kind of auditory distortion products (ADP) where two 
+pure tones are used to generate the perceptual illusion of a third 
+pure tone. This ADPs have been thoroughly studied and compared in the
+last decades (see e.g. [[1]](#1), [[2]](#2) and [[3]](#3)),
+and the necessary conditions to generate them are well known.
+Quadratic Difference Tone Spectra (QDTS) on the other side, is a 
+new kind of ADP where several pure tones are combined to generate a 
+full spectra made out of QDT.
+
+The theory behind the construction of a QDTS was first introduced in 
+[[4]](#4), and a real-time algorithm that solves the computations
+needed to generate any given QDTS was first introduced in [[5]](#5).
+
 This repository contains an implementation as a MAX external of 
-the algorithm built to generate QDTS presented at the International 
-Computer Music Conference 2023 hosted in the Chinese University of 
-Hong Kong.
+the algorithm built in [[5]](#5) to generate QDTS presented at the 
+International Computer Music Conference 2023 hosted in the Chinese 
+University of Hong Kong.
+
+## Contents
 
 The three main folders of the repository contain the implementation
 in MAX, some example patches recorded in video and the experiments
@@ -44,3 +59,11 @@ prior to its construction in order to fully understand the problem.
 In each subfolder, a python project containing the experiment can be
 found together with a brief readme file containing a description of
 the experiment itself.  
+
+## References
+
+<a id="1">[1]</a> J. B. Dewey, “Cubic and quadratic distortion products in vibrations of the mouse cochlear apex,” JASA Express Letters 2, vol. 11, no. 114402, 2022.\
+<a id="2">[2]</a> E. Zwicker, “Different behaviour of quadratic and cubic difference tones,” Hearing Research, vol. 1, no. 4, pp. 283–292, 1979.\
+<a id="3">[3]</a> R. Plomp, “Detectability threshold for combination tones,” The Journal of the Acoustical Society of America, vol. 37, no. 1110, 1965.\
+<a id="4">[4]</a> G. Kendall, C. Haworth, and R. F. Cádiz, “Sound synthesis with auditory distortion products,” Computer Music Journal, vol. 38, no. 4, 2014.\
+<a id="5">[5]</a> C. Haworth, E. Gutiérrez and R. F. Cádiz, “Generating Quadratic Difference Tone Spectra for Auditory Distortion Synthesis,” (to be published).

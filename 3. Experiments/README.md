@@ -1,6 +1,6 @@
-## About the descriptions of the demos
+## About the descriptions of the experiments
 
-Each demo has its own readme file containing a description of it, however in order to make the descriptions
+Each experiment has its own readme file containing a description of it, however in order to make the descriptions
 as accurate as possible we used the notations introduced in our paper (see [[5]](#5)).
 
 ## References

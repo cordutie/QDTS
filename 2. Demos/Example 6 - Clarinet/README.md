@@ -15,4 +15,6 @@ The harmonic distribution was precomputed using the Discrete Fourier Transform o
 The pitch and envelope detection of the tuba recording were made in real-time using the `sigmund` object. Finally, 
 the square root of the envelope of the real signal was used in the **QDTS** synthesis as in Example 3.
 
->Note: the recording of the tuba was downloaded from [here](https://freesound.org/people/stephenchai/sounds/20932/). 
+>Note: the recording of the tuba was downloaded from [here](https://freesound.org/people/stephenchai/sounds/20932/).
+
+[![Alt text](https://i3.ytimg.com/vi/N_i1a1UfKw4/maxresdefault.jpg)](https://youtu.be/N_i1a1UfKw4)

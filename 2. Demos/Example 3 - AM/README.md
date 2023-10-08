@@ -25,3 +25,5 @@ root version of the LFO
 $$L_2(t)=\sqrt{A\sin(\omega t+\varphi)+B},$$
 
 for its **QDTS** counterpart. 
+
+[![Alt text](https://i3.ytimg.com/vi/TkKuM7qcquk/maxresdefault.jpg)](https://youtu.be/TkKuM7qcquk)

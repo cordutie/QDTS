@@ -12,3 +12,5 @@ For the **QDTS** synthesis, the computations were made using the `qdts.solver`
 object using a _carrier_ complex of pure tones with C=2338Hz in order to 
 synthesize a single pitch with frequency F=55Hz and a particular harmonic distribution. 
 The noise was filtered muting all frequencies below approximately 1100Hz.
+
+[![Alt text](https://i3.ytimg.com/vi/nthgk0wwA_s/maxresdefault.jpg)](https://youtu.be/nthgk0wwA_s)

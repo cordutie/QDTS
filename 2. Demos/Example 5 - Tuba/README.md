@@ -12,4 +12,6 @@ was precomputed using the Discrete Fourier Transform of a small bin of the real 
 of the tuba recording were made in real-time using the `sigmund` object. Finally, the square root of the envelope of the 
 real signal was used in the **QDTS** synthesis as in Example 3.
 
->Note: the recording of the tuba was downloaded from [here](https://freesound.org/people/josemdavid/sounds/406607/). 
+>Note: the recording of the tuba was downloaded from [here](https://freesound.org/people/josemdavid/sounds/406607/).
+
+[![Alt text](https://i3.ytimg.com/vi/UodLZ9XQ_S0/maxresdefault.jpg)](https://youtu.be/UodLZ9XQ_S0)

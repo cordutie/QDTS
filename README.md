@@ -21,6 +21,8 @@ the algorithm built in [[5]](#5) to generate QDTS presented at the
 International Computer Music Conference 2023 hosted in the Chinese 
 University of Hong Kong.
 
+[![Alt text](https://i3.ytimg.com/vi/UodLZ9XQ_S0/maxresdefault.jpg)](https://youtu.be/UodLZ9XQ_S0)
+
 ## Contents
 
 The three main folders of the repository contain the implementation

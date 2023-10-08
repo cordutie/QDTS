@@ -20,3 +20,5 @@ The FM _carrier_ used was a simple LFO of the form
 $$L(t)=A\sin(\omega t+\varphi)+B,$$ 
 
 for some $A,B,\omega,\varphi\in\mathbb{R}$ in both the additive and **QDTS** synthesis case.
+
+[![Alt text](https://i3.ytimg.com/vi/_cojV-vQUBI/maxresdefault.jpg)](https://youtu.be/_cojV-vQUBI)

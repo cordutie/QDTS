@@ -14,7 +14,7 @@
 ## Introduction
 
 Cuadratic and cubic difference tones (QDT and CDT respectively) are
-a particular kind of auditory distortion products (ADP) where two 
+particular kinds of auditory distortion products (ADP) where two 
 pure tones are used to generate the perceptual illusion of a third 
 pure tone. This ADPs have been thoroughly studied and compared in the
 last decades (see e.g. [[1]](#1), [[2]](#2) and [[3]](#3)),

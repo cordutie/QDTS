@@ -1,4 +1,15 @@
+<div align="center">
+  
 # QDTS
+
+[**Rodrigo Cádiz**](https://rodrigocadiz.com/music/)<sup>1,2</sup>, [**Esteban Gutiérrez**](https://github.com/cordutie)<sup>3</sup>, and [**Christopher Haworth**](https://www.birmingham.ac.uk/staff/profiles/music/haworth-christopher.aspx)<sup>4</sup>
+
+<sup>1</sup> *Music Institute, Pontificia Universidad Católica de Chile* <br>
+<sup>2</sup> *Department of Electrical Enginering, Pontificia Universidad Católica de Chile* <br>
+<sup>3</sup> *Department of Information and Communications Technologies, Universitat Pompeu Fabra* <br>
+<sup>4</sup> *Department of Music, University of Birmingham* <br>
+
+<div align="left">
 
 ## Introduction
 
